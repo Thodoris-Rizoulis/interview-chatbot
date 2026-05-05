@@ -11,7 +11,7 @@ A Streamlit-powered mock interview preparation chatbot that uses OpenAI's GPT mo
 
 ## Demo
 
-![Setup screen](https://via.placeholder.com/800x400?text=Setup+Screen)
+![Setup screen](https://interview-chatbot-demo.streamlit.app/)
 
 ## Requirements
 
